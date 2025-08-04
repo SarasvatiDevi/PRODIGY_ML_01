@@ -14,7 +14,7 @@ The goal is to build a regression model that learns the relationship between the
 
 **Dataset**
 
-**Source:** Kaggle - House Prices: Advanced Regression Techniques
+**Source:** Kaggle - House Prices: Advanced Regression Techniques https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 **Files used:**
 
